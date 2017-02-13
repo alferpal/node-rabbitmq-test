@@ -1,0 +1,26 @@
+{
+  "ecmaVersion": 6,
+  "dependencyBudget": 8192,
+  "libs": [],
+  "plugins": {
+    "complete_strings": {
+      "maxLength": 15
+    },
+    "node": {
+      "dontLoad": "",
+      "load": "",
+      "modules": ""
+    },
+    "doc_comment": {
+      "fullDocs": true,
+      "strong": false
+    },
+    "node_resolve": {},
+    "modules": {
+      "dontLoad": "",
+      "load": "",
+      "modules": ""
+    },
+    "commonjs": {}
+  }
+}
